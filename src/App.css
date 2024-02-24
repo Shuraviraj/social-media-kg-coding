@@ -1,0 +1,16 @@
+.sidebar{
+    min-height: 100%;
+    position: sticky;
+}
+
+.post-card{
+    margin: 15px 50px;;
+}
+
+.create-post{
+    margin: 15px 50px;
+}
+
+.mouse-hover-pointer{
+    cursor: pointer;
+}
